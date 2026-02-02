@@ -93,3 +93,9 @@ class Jackrabbit(Gtk.Window):
 win = Jackrabbit()
 win.show_all()
 Gtk.main()
+
+'''
+Made by Erik w for Poniek Labs
+(c) Copyright 2026 Poniek Labs Canada
+Do not redistribute.
+'''
